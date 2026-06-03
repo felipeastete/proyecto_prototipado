@@ -1,0 +1,8 @@
+{
+    "site_name": "fastete2025_db1",
+    "site_url": "http://localhost/casino_copia",
+    "maintenance_mode": false,
+    "contact_email": "contacto@casino.cl",
+    "open_hours": "Lunes a Viernes: 8:00 AM - 6:00 PM",
+    "enable_reports": true
+}
